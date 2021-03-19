@@ -12,6 +12,8 @@ tags: [git, 项目工程化]
 
 Husky 可以在 commit 和 push 之前执行自定义的操作，如使用 prettier 和 elint 检查和自动格式化代码, line-staged 可以针对暂存的 git 文件运行多个指令
 
+plus: 特别不同的 husky 对 node 版本有要求，同时 5.0 版本的 husky 配置有一些变化，请参考最新的官网
+
 ## 安装依赖
 
 ```
