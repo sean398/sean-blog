@@ -2,6 +2,7 @@
 title: webpack学习(一)
 date: 2021-03-15 13:59:41
 tags: [webpack，项目工程化]
+categories: [前端学习, webpack]
 ---
 
 webpack4 的配置和 loader 的原理
