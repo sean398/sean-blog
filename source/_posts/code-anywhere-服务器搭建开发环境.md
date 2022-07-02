@@ -17,3 +17,6 @@ docker run --name test-node -p 8082:8080 -p 3000:3001 -p 4000:4000 -e PASSWORD=1
 
 
 Jenkins 自动化部署
+
+
+Nginx 配置
